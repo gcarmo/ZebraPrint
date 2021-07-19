@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gcarmo\\Workspace\\Pessoal\\ZebraPrint\\ZebraPrint.csproj": {}
+    "C:\\Users\\gcarmo\\Workspace\\ZebraPrint\\ZebraPrint.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gcarmo\\Workspace\\Pessoal\\ZebraPrint\\ZebraPrint.csproj": {
+    "C:\\Users\\gcarmo\\Workspace\\ZebraPrint\\ZebraPrint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gcarmo\\Workspace\\Pessoal\\ZebraPrint\\ZebraPrint.csproj",
+        "projectUniqueName": "C:\\Users\\gcarmo\\Workspace\\ZebraPrint\\ZebraPrint.csproj",
         "projectName": "ZebraPrint",
-        "projectPath": "C:\\Users\\gcarmo\\Workspace\\Pessoal\\ZebraPrint\\ZebraPrint.csproj",
+        "projectPath": "C:\\Users\\gcarmo\\Workspace\\ZebraPrint\\ZebraPrint.csproj",
         "packagesPath": "C:\\Users\\gcarmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gcarmo\\Workspace\\Pessoal\\ZebraPrint\\obj\\",
+        "outputPath": "C:\\Users\\gcarmo\\Workspace\\ZebraPrint\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gcarmo\\AppData\\Roaming\\NuGet\\NuGet.Config"

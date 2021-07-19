@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FtLoaUx01EN4YtwGdrc+i7X1yxy8eaI5ZwtYPvMZBJ/D0DzBY68isFmMkxeyC3+BjA+mX6rKTRPgX8f7dBJEVw==",
+  "dgSpecHash": "HgGWe6Ryxhr+oMgWhMfUgmH70miQ2+5/9tYl/6Fbt0n4lEHW2iK/Ej9M35oPG4li5dHhjN9UVuEWFp+NnPXWRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gcarmo\\Workspace\\Pessoal\\ZebraPrint\\ZebraPrint.csproj",
+  "projectFilePath": "C:\\Users\\gcarmo\\Workspace\\ZebraPrint\\ZebraPrint.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gcarmo\\.nuget\\packages\\confluent.kafka\\1.7.0\\confluent.kafka.1.7.0.nupkg.sha512",
     "C:\\Users\\gcarmo\\.nuget\\packages\\librdkafka.redist\\1.7.0\\librdkafka.redist.1.7.0.nupkg.sha512",

@@ -14,7 +14,7 @@ namespace ZebraPrint
     {
 
         public static bool isDebug = false;
-        public static Connection conn;
+        public static Connection conn = PrinterCOnnectionHandler.PrinterConnect();
 
         static void Main(string[] args)
         {
@@ -30,7 +30,6 @@ namespace ZebraPrint
                 Debug("Subscribing topic");
 
                 Consume(c);
-
             }
         }
 
