@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gcarmo\\Workspace\\ZebraPrint\\ZebraPrint.csproj": {}
+    "/Users/gcarmo/Workspace/Personal/TotalMinas/ZebraPrint/ZebraPrint.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gcarmo\\Workspace\\ZebraPrint\\ZebraPrint.csproj": {
+    "/Users/gcarmo/Workspace/Personal/TotalMinas/ZebraPrint/ZebraPrint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gcarmo\\Workspace\\ZebraPrint\\ZebraPrint.csproj",
+        "projectUniqueName": "/Users/gcarmo/Workspace/Personal/TotalMinas/ZebraPrint/ZebraPrint.csproj",
         "projectName": "ZebraPrint",
-        "projectPath": "C:\\Users\\gcarmo\\Workspace\\ZebraPrint\\ZebraPrint.csproj",
-        "packagesPath": "C:\\Users\\gcarmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gcarmo\\Workspace\\ZebraPrint\\obj\\",
+        "projectPath": "/Users/gcarmo/Workspace/Personal/TotalMinas/ZebraPrint/ZebraPrint.csproj",
+        "packagesPath": "/Users/gcarmo/.nuget/packages/",
+        "outputPath": "/Users/gcarmo/Workspace/Personal/TotalMinas/ZebraPrint/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gcarmo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/gcarmo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

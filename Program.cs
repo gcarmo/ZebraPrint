@@ -200,7 +200,7 @@ namespace ZebraPrint
             {
                 EnableAutoCommit = false,
                 GroupId = "test-consumer-group",
-                BootstrapServers = "52.91.116.209:9092",
+                BootstrapServers = "54.208.92.103:9092",
                 AutoOffsetReset = AutoOffsetReset.Earliest
             };
         }
